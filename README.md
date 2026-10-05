@@ -1,6 +1,6 @@
 # Hi, I'm Akhil Rachaveti 👋
 
-🩺 **MBBS Undergraduate** | 🤖 **Medical AI** | 🧠 **Anatomy & Physiology** | 💻 **Medical Education & Technology**
+🩺 **MBBS Undergraduate** | 🤖 **Medical AI** | 💻 **Medical Education & Technology**
 
 I'm an MBBS undergraduate interested in the intersection of **medicine, artificial intelligence, and technology**.
 
@@ -9,17 +9,6 @@ My primary interests include medical education, AI-assisted learning, evaluation
 ---
 
 ## 🧠 What I'm Working On
-
-### 🤖 Medical AI & AI Evaluation
-Exploring ways to evaluate AI-generated medical content for:
-
-- Anatomical accuracy
-- Physiological accuracy
-- Clinical reasoning
-- Factual consistency
-- Completeness
-- Medical terminology
-- Educational clarity
 
 ### 📚 Medical Education Technology
 Building concepts that transform medical study material into:
@@ -74,8 +63,6 @@ Building concepts that transform medical study material into:
 
 🔹 **Vybe** — Social media platform
 
-🔹 **Medical AI Evaluator** — Evaluating AI-generated anatomy and physiology answers for accuracy, reasoning and completeness
-
 🔹 **Medical Learning Platform** — AI-assisted transformation of medical study material into structured learning resources
 
 ---
@@ -92,7 +79,7 @@ Building concepts that transform medical study material into:
 
 ## 📫 Connect With Me
 
-- LinkedIn: *Coming soon*
+- LinkedIn: https://www.linkedin.com/in/akhil-rachaveti
 - GitHub: [@akhilrachaveti](https://github.com/akhilrachaveti)
 
 ---
